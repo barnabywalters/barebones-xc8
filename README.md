@@ -1,6 +1,6 @@
 # XC8 Skeleton
 
-A bare-bones PIC XC8 project structure.
+A bare-bones PIC XC8 project structure. Companion to the [Barebones PIC programming on a Mac + pickit2](http://waterpigs.co.uk/articles/barebones-pic-programming-on-mac-pickit2/) article.
 
 You’ll need `xc8` to compile. The `burn`, `power` and `off` utilities assume a pickit2 controlled using `pk2cmd`, but could easily be changed to do whatever you wanted.
 

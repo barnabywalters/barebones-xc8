@@ -14,6 +14,7 @@
 #pragma config PWRTE = OFF
 
 void init(void) {
+  // 4MHz clock
 	OSCCON = 0b01100000;
 	TRISA = 0;
 	TRISB = 0;
