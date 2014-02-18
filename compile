@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+xc8 --chip=16F886 --outdir=build --html=build/doc main.c

@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+pk2cmd -PPIC16F886 -T
